@@ -3,7 +3,7 @@
 I'm a Front-End Developer with extensive expertise in HTML5, CSS3, and JavaScript. I excel in utilizing advanced technologies like jQuery, SCSS, React JS, and Next.js to create dynamic and interactive user interfaces. Proficient in UI component libraries including Material UI, React Bootstrap, and React Tailwind, I also possess skills in Bootstrap 5 and Tailwind CSS for responsive web design. Additionally, I have a strong foundation in API Development, proficiently integrating front-end interfaces with back-end systems using tools like Ajax. Leveraging GitHub for version control, I ensure efficient collaboration and code management. Moreover, my expertise extends to Payment Integration, enabling secure and seamless transaction processes within web applications.
 
 <!--
-**joshualazar28/joshualazar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RohailJohn/RohailJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -   🌱 I’m currently learning AL , ML , Web 3 and Blockchain ...
 -   👯 Collaborating on cool and open source projects ...
 -   💬 Ask me about anything ...
--   📫 How to reach me: <a href="https://joshualazar.com">rohailjohn-portfolio.web.app</a> ...
+-   📫 How to reach me: <a href="https://rohailjohn-portfolio.web.app/">rohailjohn-portfolio.web.app</a> ...
 
 ⚡ Fun fact:
 
