@@ -1,6 +1,17 @@
 ![alt text](./images/ROHAIL.png)
 
-I'm a Front-End Developer with extensive expertise in HTML5, CSS3, and JavaScript. I excel in utilizing advanced technologies like jQuery, SCSS, React JS, and Next.js to create dynamic and interactive user interfaces. Proficient in UI component libraries including Material UI, React Bootstrap, and React Tailwind, I also possess skills in Bootstrap 5 and Tailwind CSS for responsive web design. Additionally, I have a strong foundation in API Development, proficiently integrating front-end interfaces with back-end systems using tools like Ajax. Leveraging GitHub for version control, I ensure efficient collaboration and code management. Moreover, my expertise extends to Payment Integration, enabling secure and seamless transaction processes within web applications.
+I am a dedicated and results-driven software professional with over 3 years of experience specializing in Front-End development. My expertise includes building responsive and user-friendly web applications using JavaScript, React, Next.js, jQuery, HTML5, CSS3, Bootstrap, and Tailwind CSS. I have a strong command of modern JavaScript features (ES6) and State Management solutions like Redux and Context API.
+
+In addition to my front-end proficiency, I have foundational experience in back-end development, focusing on creating scalable and efficient server-side applications using Node.js, MongoDB, and Express. I have worked on integrating RESTful APIs to enable seamless communication between client and server.
+
+**Technical Skills**
+=> **Front-End:** JavaScript (ES6+), React, Next.js, jQuery, HTML5, CSS3, Bootstrap, Tailwind CSS.
+=> **State Management:** Validation, Redux, Context API.
+=> **Back-End Basics:** Node.js, Express, MongoDB, RESTful API Integration.
+=> **Tooling:** NPM, Webpack, Babel, Git/GitHub.
+=> **ther Expertise:** DOM manipulation, responsive design, cross-browser compatibility, and performance optimization.
+
+I thrive in collaborative environments, leveraging strong communication and coordination skills to ensure project goals are met with precision and efficiency. Always eager to learn and adapt, I aim to deliver innovative and impactful solutions to meet business objectives.
 
 <!--
 **RohailJohn/RohailJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
